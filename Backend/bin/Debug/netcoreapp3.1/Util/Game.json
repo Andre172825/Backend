@@ -1,0 +1,40 @@
+﻿{
+  "GameList": [
+    {
+      "Id": 1,
+      "Name": "MarioBross",
+      "Gender": "Plataforma",
+      "Description": "Mario Bros. (マリオブラザーズ Mario Burazāzu, lit. Hermanos Mario) es un videojuego de arcade desarrollado por Nintendo en el año 1983. Fue creado por Shigeru Miyamoto. Ha sido presentado como un minijuego en la serie de Super Mario Advance y otros juegos. Mario Bros. ha sido relanzado para Wii, Nintendo 3DS y Wii U en los servicios de Consola Virtual en Japón, Norteamérica, Europa y Australia. Fue la tercera aparición de Mario, y la primera que aparece con su nombre definitivo, ya que en Donkey Kong (1981) aparecía bajo el seudónimo de Jumpman (‘saltador’)."
+    },
+    {
+      "Id": 2,
+      "Name": "Sonic",
+      "Gender": "Plataforma",
+      "Description": "Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu, lit. Sonic el erizo) es un personaje de ficción, protagonista de la saga de videojuegos del mismo nombre y la mascota de la compañía Sega. También está presente en cómics, dibujos animados y libros. Es un erizo azul antropomórfico que puede correr a velocidades que superan con creces la de la luz, característica que se muestra en la mayoría de sus juegos siendo, además, su seña de identidad, conforme ha pasado el tiempo Sonic ha ido desarrollando su velocidad a tal punto que ha alcanzado la velocidad de el sonido e incluso ha podido superarla."
+    },
+    {
+      "Id": 3,
+      "Name": "Pro Evolution Soccer",
+      "Gender": "Deportes",
+      "Description": "Pro Evolution Soccer (oficialmente abreviado como PES1​, y conocido como World Soccer: Winning Eleven 5 en su versión japonesa) es un videojuego de fútbol para PlayStation, PlayStation 2, el cual se lanzó a la venta en el año 2001. Es el primer videojuego de la serie Pro Evolution Soccer.",
+    },
+    {
+      "Id": 4,
+      "Name": "Fifa",
+      "Gender": "Deportes",
+      "Description": "FIFA es una saga de videojuegos de fútbol publicados anualmente por Electronic Arts bajo el sello de EA Sports creado en Japón. Cuando la saga comenzó a finales de 1993 se destacó por ser el primero en tener una licencia oficial de la FIFA. Las últimas ediciones de la saga contienen muchas licencias exclusivas y los equipos de ligas de todo el mundo, como la Premier League y la Football League inglesa, Serie A italiana, Bundesliga alemana, La Liga Primera División de España, Selecciones Nacionales, entre otras ligas más que han ido agregando a lo largo de estos últimos años, lo que permite el uso real de los estadios, cánticos del público, nombres reales de los jugadores y sus semejanzas en cómo juegan dentro del campo, etc."
+    },
+    {
+      "Id": 5,
+      "Name": "Street Fighter",
+      "Gender": "Pelea",
+      "Description": "Street Fighter (ストリートファイター Sutorīto Faitā, Luchador callejero) es una serie de videojuegos de lucha creada por la empresa japonesa Capcom. El primer título, Street Fighter, apareció en el año 1987 en Arcade y gozó de cierta popularidad, pero fue su continuación, Street Fighter II, la que causó una verdadera revolución y provocó el boom de los juegos de lucha en salones recreativos. Se pusieron a la venta millones de este en versiones caseras para consolas por todo el mundo. Hubo varias versiones de esta segunda entrega, seguido de nuevos capítulos, crossovers con personajes de franquicias como Marvel Comics o SNK Playmore, películas, series de televisión y todo tipo de merchandising."
+    },
+    {
+      "Id": 6,
+      "Name": "Tekken",
+      "Gender": "Pelea",
+      "Description": "Tekken (鉄拳 en español: Puño de hierro) es una serie de videojuegos de lucha desarrollado por Namco y distribuidos por Namco Bandai Games. Originalmente era un juego de arcade que al poco tiempo fue adaptado a la plataforma PlayStation, convirtiéndose así en una saga exclusiva de esta consola por mucho tiempo hasta la entrega Tekken 6, la cual es multiplataforma, aunque anteriormente también hubo versiones para varias portátiles como la portátil Game Boy Advance."
+    }
+  ]
+}

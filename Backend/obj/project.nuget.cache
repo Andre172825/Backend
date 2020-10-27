@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IwxNuSIboaZHDcXgLimFJZ5cDCQvz4Y1hnPtKvt3+a+BmsY0MQOzP4K1JmtoAFFlB7WYSV6yQoii006yjQMQCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Evaluacion_MediaConnect\\Backend\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
